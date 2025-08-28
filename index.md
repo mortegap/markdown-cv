@@ -10,6 +10,7 @@ DevOps Engineer, SRE, Cloud Engineer.
 <a href="https://www.linkedin.com/in/miguel-ortega-perez/">Linkedin</a>
 | <a href="https://github.com/mortegap">Github</a>
 | miguelortega098@gmail.com
+| +34 649 70 19 51
 </div>
 
 ## Summary
