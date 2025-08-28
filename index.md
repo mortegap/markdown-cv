@@ -1,91 +1,88 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Miguel Ortega's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Miguel Ortega Pérez
+---
+DevOps Engineer, SRE, Cloud Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/miguel-ortega-perez/">Linkedin</a>
+| <a href="https://github.com/mortegap">Github</a>
+| miguelortega098@gmail.com
+| +34 649 70 19 51
 </div>
 
+## Specialized in
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+DevOps tools, automations/pipelines, CI/CD and Cloud Infrastructure.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+MLOps, LLMs, IAC, Python, K8S, HomeLabbing...
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018 - 2020`
+__CES. Ramón y Cajal, Granada.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Higher Technician in Network Computer Systems Administration
 
-- Sizar
+`2016 - 2018`
+__Curva Polar, Granada.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Higher Technician in Sound and Image
 
-- Fellow
+## Certifications
 
+`Oct. 2024`
+CNCF Kubernetes application developer (CKAD)
 
+## Experience
 
-## Awards
+`Oct. 2022 - Present`
+__Site Reliability Engineer__, Novatec Software Engineering
 
-`2012`
-President, *Royal Society*, London, UK
+Working in projects related to cloud migrations, K8S setups, infrastructure as code, modernization of microservices and infrastructure, configuration of monitoring, platform maintenance, etc...
 
-Associate, *French Academy of Science*, Paris, France
+- -*Monitoring*: Grafana/Prometheus, EFK Stack, Splunk, Nagios
+- -*Infrastructure*: Terraform, Terragrunt, Helm, K8S, Ansible, Docker
+- -*CI/CD*: ArgoCD, Jenkins, Gitlab CI/CD
+- -*Cloud*: AWS, GCP, Azure, Baishan
+- -*Code*: Python, Bash
+- -*Others*: Git, MySQL, Postgresql, Ansible
 
+`Mar. 2022 - Oct. 2022`
+__MLOps Engineer__, GFT
 
+Working in projects related to cloud migrations, K8S setups, infrastructure as code, modernization of microservices and infrastructure, configuration of monitoring, platform maintenance etc...
 
-## Publications
+- -*Monitoring*: Grafana/Prometheus, EFK Stack, Victoria Matrics, PromQL/Metrics QL
+- -*Infrastructure*: Openshift, MLServer, Seldon Core, FastAPI
+- -*CI/CD*: Github Actions
+- -*Code*: Python, Bash
+- -*Others*: K6
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`Oct 2020 - Mar 2022`
+__DevOps Engineer__, Infoautónomos
 
-### Journals
+Working in projects related to cloud migrations, K8S setups, infrastructure as code, modernization of microservices and infrastructure, configuration of monitoring, platform maintenance etc...
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- -*Monitoring*: Grafana/Prometheus, Elasticsearch, Graylog, Zabbix
+- -*Infrastructure*: Ansible, Docker Compose
+- -*Cloud*: AWS, DigitalOcean
+- -*Code*: Python, Bash, Django, Vue, PHP
+- -*Others*: Git, MySQL, Postgresql, Nginx, Odoo
 
-`1669`
-Lectiones opticæ.
+## Languages
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+* __Spanish:__ Native
+* __Inglés:__  B2 Certified, Complete professional competence
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sept 2025 -->
 
 
