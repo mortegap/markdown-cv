@@ -52,7 +52,7 @@ __MLOps Engineer__, *GFT Technologies*
 
 Developed a from scratch Python based Framework for machine learning operations on a top leading global textile client. Extending MLServer and SelconCore functionalities with integrations of other in-house services, frameworks and tools. Data, code and model versioning with high resilient model serving using FastAPI.
 
-- *-Monitoring*: Grafana/Prometheus, EFK Stack, Victoria Matrics
+- *-Monitoring*: Grafana/Prometheus, EFK Stack, Victoria Metrics
 - *-Infrastructure*: Openshift, MLServer, Seldon Core, FastAPI, K6, JMeter
 - *-CI/CD*: Github Actions
 - *-Code*: Python, Bash
