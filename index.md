@@ -15,8 +15,20 @@ DevOps Engineer | SRE | Cloud Engineer
 
 ## Summary
 
-Specialized in **DevOps** tools, automations/pipelines, CI/CD and Cloud Infrastructure. 
+Specialized in **DevOps** tools, automations/pipelines, CI/CD and Cloud Infrastructure.
 Research interests in MLOps, LLMs, IAC, Python, K8S, HomeLabbing, open-source projects...
+
+## Technical Skills
+
+- *Cloud*: **AWS**, GCP, Azure, DigitalOcean, Baishan
+- *IaC*: **Terraform**, Terragrunt, Ansible, Helm
+- *Containers/Orchestration*: Kubernetes, Docker, ECS, OpenShift
+- *CI/CD*: **ArgoCD**, Jenkins, GitLab CI/CD, GitHub Actions, JFrog, Bitbucket, Codacy
+- *Monitoring*: Grafana, Prometheus, **EFK Stack**, Splunk, CloudWatch, Victoria Metrics
+- *Testing*: k6, Jmeter
+- *AI*: MLServer, Seldon Core, AgenticAI, FastAPI
+- *Languages*: **Python**, Bash, 
+- *Other*: Git, Linux
 
 ## Education
 
@@ -37,7 +49,17 @@ CNCF Kubernetes application developer (**CKAD**)
 
 ## Experience
 
-`Oct. 2022 - Present`
+`Dec. 2025 - Present`
+__DevOps Engineer__, *Lessthan3*
+
+Leading infrastructure decisions and collaborating with development teams on a media company project. Responsible for **AWS account migration**, containerizing Python applications, CI/CD improvements and cost optimization initiatives.
+
+- *-Monitoring*: **CloudWatch**
+- *-Infrastructure*: **Terraform**, Terragrunt, ECS, CloudFront, Docker
+- *-CI/CD*: **Github Actions**, Codacy
+- *-Cloud*: **AWS** (RDS, Lambda, S3, Route53, SSM)
+
+`Oct. 2022 - Dec. 2025`
 __Site Reliability Engineer__, *Novatec Software Engineering*
 
 Working on iGaming project related to **cloud migrations**, K8S setups, infrastructure as code, modernization of microservices and infrastructure, configuration of monitoring, platform maintenance and responsability of the infrastructure, on calls duties, etc...
