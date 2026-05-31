@@ -15,19 +15,18 @@ DevOps Engineer | SRE | Cloud Engineer
 
 ## Summary
 
-Specialized in **DevOps** tools, automations/pipelines, CI/CD and Cloud Infrastructure.
-Research interests in MLOps, LLMs, IAC, Python, K8S, HomeLabbing, open-source projects...
+DevOps Engineer / SRE with 5+ years building and operating cloud-native platforms across **iGaming**, **MLOps**, **media** and **AIOps/Telco** domains. Specialized in **Kubernetes**, **Infrastructure as Code**, **GitOps**-based delivery and production observability across **AWS, GCP and Azure**. Passionate about AI-driven operations, automation, and self-hosting open-source infrastructure at home.
 
 ## Technical Skills
 
 - *Cloud*: **AWS**, GCP, Azure, DigitalOcean, Baishan
 - *IaC*: **Terraform**, Terragrunt, Ansible, Helm
-- *Containers/Orchestration*: Kubernetes, Docker, ECS, OpenShift
+- *Containers/Orchestration*: **Kubernetes**, Docker, ECS, OpenShift
 - *CI/CD*: **ArgoCD**, Jenkins, GitLab CI/CD, GitHub Actions, JFrog, Bitbucket, Codacy
-- *Monitoring*: Grafana, Prometheus, **EFK Stack**, Splunk, CloudWatch, Victoria Metrics
-- *Testing*: k6, Jmeter
-- *AI*: MLServer, Seldon Core, AgenticAI, FastAPI
-- *Languages*: **Python**, Bash, 
+- *Monitoring*: Grafana, Prometheus, **EFK Stack**, Loki, Splunk, CloudWatch, Victoria Metrics
+- *Testing*: k6, JMeter
+- *AI*: MLServer, Seldon Core, Ollama, n8n, FastAPI
+- *Languages*: **Python**, Bash
 - *Other*: Git, Linux
 
 ## Education
@@ -49,45 +48,71 @@ CNCF Kubernetes application developer (**CKAD**)
 
 ## Experience
 
-`Dec. 2025 - Present`
+`May. 2026 - Present`
+__DevOps Engineer__, *Datadope*
+
+Building and operating the cloud-native platform behind Datadope's **iometrics** products (*Telco Xperience* and *Smart Ops*), combining DevOps/SRE practices with **AI-driven observability and AIOps** capabilities. Working on platform reliability, infrastructure automation and integration of intelligent operations into customer environments.
+
+- *-Infrastructure*: **Kubernetes**, Terraform, Docker, Helm
+- *-CI/CD*: GitLab CI/CD, ArgoCD
+- *-Observability/AI*: **iometrics**, AIOps, Grafana, Prometheus
+
+`Dec. 2025 - May. 2026`
 __DevOps Engineer__, *Lessthan3*
 
-Leading infrastructure decisions and collaborating with development teams on a media company project. Responsible for **AWS account migration**, containerizing Python applications, CI/CD improvements and cost optimization initiatives.
+Worked as a **DevOps consultant** across multiple client engagements: **led an AWS multi-account migration** for a travel agency as cloud architect, designing the new landing zone with **AWS Organizations**, Well-Architected, Kubernetes, Helm and Terraform; migrated a media platform from EC2 to **ECS** with Terraform/Terragrunt; drove **FinOps** optimizations (EKS, RDS, instance rightsizing) on a gaming portal; and bootstrapped a from-scratch **serverless infrastructure** (Lambda + Terragrunt monorepo) for an energy-comparison product.
 
 - *-Monitoring*: **CloudWatch**
-- *-Infrastructure*: **Terraform**, Terragrunt, ECS, CloudFront, Docker
-- *-CI/CD*: **Github Actions**, Codacy
-- *-Cloud*: **AWS** (RDS, Lambda, S3, Route53, SSM)
+- *-Infrastructure*: **Terraform**, Terragrunt, **Kubernetes**, Helm, ECS, EKS, CloudFront, Docker
+- *-CI/CD*: **GitHub Actions**, Codacy
+- *-Cloud*: **AWS** (Organizations, Lambda, RDS, S3, Route53, SSM)
 
 `Oct. 2022 - Dec. 2025`
 __Site Reliability Engineer__, *Novatec Software Engineering*
 
-Working on iGaming project related to **cloud migrations**, K8S setups, infrastructure as code, modernization of microservices and infrastructure, configuration of monitoring, platform maintenance and responsability of the infrastructure, on calls duties, etc...
+Owned the reliability of a high-traffic **iGaming** platform across multiple cloud providers. Led the **containerization and migration of legacy services to Kubernetes**, designed a **GitOps**-based delivery model with ArgoCD, built end-to-end observability across EFK, Prometheus and Splunk, and handled **24/7 on-call** duties including incident response, runbooks and post-mortems.
 
-- *-Monitoring*: Grafana/Prometheus, **EFK Stack**, Splunk, Nagios
-- *-Infrastructure*: **Terraform**, Terragrunt, Helm, K8S, Ansible, Docker
-- *-CI/CD*: **ArgoCD**, Jenkins, Gitlab CI/CD
+- *-Monitoring*: **Grafana/Prometheus**, **EFK Stack**, Splunk, Nagios
+- *-Infrastructure*: **Kubernetes**, Terraform, Terragrunt, Helm, Ansible, Docker
+- *-CI/CD*: **ArgoCD**, Jenkins, GitLab CI/CD
 - *-Cloud*: **AWS**, GCP, Azure, Baishan
 
 `Mar. 2022 - Oct. 2022`
 __MLOps Engineer__, *GFT Technologies*
 
-Developed a from scratch **Python** based Framework for machine learning operations on a top leading global textile client. Extending **MLServer** and SelconCore functionalities with integrations of other in-house services, frameworks and tools. Data, code and model versioning with high resilient model serving using FastAPI.
+Built a **Python-based MLOps framework from scratch** for a top global textile client. Extended **MLServer** and **Seldon Core** with integrations to in-house services and tools, providing data, code and model versioning together with high-availability model serving via FastAPI on OpenShift.
 
 - *-Monitoring*: Grafana/Prometheus, **EFK Stack**, Victoria Metrics
-- *-Infrastructure*: **Openshift**, MLServer, Seldon Core, FastAPI, K6, JMeter
-- *-CI/CD*: **Github Actions**
+- *-Infrastructure*: **OpenShift**, MLServer, Seldon Core, FastAPI, k6, JMeter
+- *-CI/CD*: **GitHub Actions**
 - *-Code*: **Python**, Bash
 
-`Oct 2020 - Mar 2022`
+`Oct. 2020 - Mar. 2022`
 __DevOps Engineer__, *Infoautónomos*
 
-**SysAdmin** and Devops operations in a small IT driven company implementing state of the art frameworks and ways of working to modernize the infrastructure and code development.
+**SysAdmin** and DevOps operations at an SMB, introducing modern frameworks and ways of working to modernize the infrastructure and accelerate the development lifecycle through automation and configuration management.
 
 - *-Monitoring*: **Grafana/Prometheus**, Elasticsearch, Graylog, Zabbix
-- *-Infrastructure*: **Ansible**, Docker Compose, MySQL, Postgresql, Nginx, Odoo
+- *-Infrastructure*: **Ansible**, Docker Compose, MySQL, PostgreSQL, Nginx, Odoo
 - *-Cloud*: AWS, **DigitalOcean**
 - *-Code*: Python, Bash, **Django**, Vue, PHP
+
+## Projects
+
+`Home Labbing`
+__Self-hosted home infrastructure__
+
+Docker Compose-based stack running 20+ services on a single-command entrypoint: media (Jellyfin, *arr suite), AI/automation (n8n with PostgreSQL and Qdrant, Open-WebUI + **Ollama**), full monitoring stack (Grafana, Prometheus, Loki, Alertmanager, cAdvisor, Blackbox), Nginx Proxy Manager, **CrowdSec**, automated backups with Backrest and DR procedures.
+
+`Home Assistant`
+__Home automation__
+
+Dedicated Home Assistant instance running on a Raspberry Pi, isolated from the main lab for reliability of the home automation layer. Experimenting with opensourced HACS community.
+
+`AI / LLM experimentation`
+__Self-hosted models, agents and tooling__
+
+Hands-on work with self-hosted LLMs (**Ollama**, vLLM), agentic workflows on top of **n8n**, Hermes Agent and custom tooling built on **Claude Code** and **MCP servers** for personal automation and development.
 
 ## Languages
 
